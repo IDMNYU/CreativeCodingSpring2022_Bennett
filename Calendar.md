@@ -18,7 +18,7 @@
 </tr>
 <tr>
 	<td valign="top"> 2 </td>
-	<td valign="top"><a href="week_2_detail.md">Jan 31</a>Color, opacity, gradients <br> Curves <br> BeginShape() EndShape() <br>Comments <br> variables <br></td>
+	<td valign="top"><a href="week_2_detail.md">Jan 31 <br> <br> </a>Color, opacity, gradients <br> Curves <br> BeginShape() EndShape() <br>Comments <br> variables <br></td>
     <td valign="top"><a href="week_2_detail.md">Feb 2</a><br><strong><br>Turning in Assignments</strong>
 	Comments<br>
     println()<br>
