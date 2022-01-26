@@ -27,11 +27,33 @@
 </tr>
 <tr>
 	<td valign="top"> 3 </td>
-	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br>
-	Loops<br> Variable scope <br>
+	<td valign="top"><a href="week_3_detail.md">Feb 7</a><br> <strong> Sketch 1 Due 18:00 EST via openProcessing.org</strong><br>Control Statements<br>Operators<br>Code Blocks<br> Variable scope <br>
 	</td>
-	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br>DeBugger + Loops (review)<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
+	<td valign="top"><a href="week_3_detail.md">Feb 9</a><br>DeBugger<br>Motion<br>Random<br>Functions<br>Print Statements<br>In-Class challenge<br>
 	</td>
 </tr>
+<tr>
+<td>4</td>
+	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br>
+	Loops <br>
+	Intro to P5 <br> 
+	</td>
+	<td valign="top"><a href="week_4_detail.md">Feb 16</a><br>Functions + passing parameters<br>
+	Matrix Transformations<br>
+	In-class Challenge <br>
+	</td>
+</tr>
+
+<tr>
+	<td>5</td>
+	<td valign="top"><a href="week_5_detail.md">Feb 23</a><br>Functions + passing parameters (review)<br>Matrix Transformations II <br>
+	<td valign="top"><a href="week_5_detail.md">Feb 28th</a><br>
+		Review <br> 
+		Object Orientated Programming <br>
+		In-class Challenge (?)<br>
+		<a href = "MidTermProject.md" MidTerm Project </a> Announced <br>
+	</td>
+</tr>
+
 	
 </table>

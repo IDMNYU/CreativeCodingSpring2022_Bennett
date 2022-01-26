@@ -32,10 +32,10 @@
 	<strong>In-Class Exercise</strong>
 	<!-- day Wed -->
 	<td valign="top" width="48%">
-		<li><a href = "https://forms.gle/rASd6cy4SXBnrhte8">Fill out Survey if you have not already done so.</a></li>
-		<li> overall structure: setup() and draw(). </li>
-		<li> drawing primitives: line(), ellipse(), rect(), etc </li>
-		<li> graphics state: strokeWeight(), stroke(), fill(), smooth().</li>
+		<li> overall structure: IDE, Static Mode, Active Mode, setup() and draw();  </li>
+		<li> 2D Primitives </li>
+		<li> Attributes, Color settings <li>
+		<li> Vertex, BeginShape(), etc</li>
 	</td>
 <!-- homework -->
 <tr>
@@ -100,7 +100,7 @@
 <li>4.3 Using random() - https://youtu.be/50Rzvxvi8D0</li>
 <li>4.4 Using Println() - https://youtu.be/G9uDQBoHp08</li>
 </ul>
- 	<li><a href = "Sketch_1.md"> Sketch 1</li>
+ 	<li><a href = "Sketch_1.md"> Sketch 1</a>. Please review the slides in Slack resources to ensure that you are on track.</li>
  	</td>
 </tr>
 </table>

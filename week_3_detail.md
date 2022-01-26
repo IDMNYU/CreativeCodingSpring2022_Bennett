@@ -23,11 +23,10 @@
 	<li> Variables + scope</li>
 	<li> Control Statements</li> 
 	<li> Logical Operators </li>
-	Loops <br>
 	</td>
 	<!-- day Thurs -->
 	<td valign="top" width="48%">
-	DeBugger + Loops (review)<br>
+	DeBugger <br>
 Motion <br>
 	 Random <br>
 	 Functions Intro<br>
@@ -40,6 +39,7 @@ Motion <br>
   	<td valign="top" width="48%">
   	<li> Learning Processing - Ch. 6 </li>
   	<li>Programming Interactivity - Ch. 2 - (on Slack)</li>
+  	<li>Read 6-8 of the Letters To The Next CoHort, found in the Slack #Resources Channel. Write a brief reflection and send it to me via a Slack DM. <br> </li>
 	</td>
   	<!-- day Thurs -->
   	<td valign="top" width="48%">

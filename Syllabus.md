@@ -225,7 +225,7 @@ Do the follow these steps for each assignment:
 
 • Sketches            30%
 
-• Project 1:  (critiqued)		20%
+• MidTerm Project:  (critiqued)		20%
 
 • RoundTable Presentation     5%  
 
@@ -378,7 +378,7 @@ The NYU Tandon School values an inclusive and equitable environment for all our 
 
 ## [Calendar](Calendar.md)
 
-## [MidTerm](Project_1.md)
+## [MidTerm](MidTermProject.md)
 
 ## [MidTerm Self Assessment](Mid_Term_Self_Assessment.md)
 
