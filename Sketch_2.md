@@ -6,13 +6,27 @@
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
 
-#### TENATIVELY Due Feb 15th 21:00 EST. Due at this time unless specified otherwise
+#### Step 1 is due before class on Feb 16th
 
         
+##### Step 1:
+ 
+ - Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Now, thing of this cluster of shapes, as one stamp.
 
- Using 1 small line or small simple shape (ellipse), twist or turn it and position it within space. Repeat this process, changing the orientation and position, yet keeping it close to the previous shape. Repeat this process at least 3-5 more times. By the end, you should a clustered arrangement of similar shapes. Wrap this into a code block: either a for-loop or a simple function for-loop combo. Use variables to manipulate the location coordinates. For example, 35 + x.
+ - Apply a variable to these shapes location coordinates, such as "50 + x" "100 + y"
 
- Now, thing of this cluster of shapes, as one stamp.
+ - Wrap these lines of code into a function. Check that function by calling that function.
+
+ - Then pass parameters for that function, that are then used within that function, such as myCluster(int x, int y)
+
+ - Then call that function multiple times passing different values to it each time. (You can create parameters for color, width, height, etc)
+
+ - Now, call that function inside a simple for-loop. Use the for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
+
+
+
+##### Step 2: Due Feb 23rd
+
 
  Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
 
