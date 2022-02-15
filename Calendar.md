@@ -107,7 +107,6 @@
 	Final Project: In-class feedback <br></strong>	
 	</td>
 	<td valign="top">April 25<br><strong>
-		Last Day to Withdraw <br>
 		Code-swap + Bug Squashing <br>
 		Topics by Request <br></strong></td>	
 </tr>
@@ -119,11 +118,11 @@
 	</td>
 </tr>
 <tr>	
-	<td valign="top">May 9<br><strong>Final Critique <br> Last Day of Class</strong> 
+	<td valign="top">May 9</td><td><br><strong>Bug Squashing <br> Last Day of Class</strong> 
 	</td>
 </tr>
 <tr><td>EXAM WEEK</td>	
-	<td valign="top">May 12<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 22:00<br>
+	<td valign="top">May 11<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 22:00<br>
 	Letter to the Next Cohort DUE by 22:00.</td> </a><td valign="top"> <br>Have a great summer! Stay safe and healthy!<br></strong> 
 	</td>
 <tr>
