@@ -118,7 +118,7 @@
 	</td>
 </tr>
 <tr>	
-	<td>14</td><td valign="top">May 9</td><br><strong>Bug Squashing <br> Last Day of Class</strong> 
+	<td>14</td><td valign="top">May 9<br><strong>Bug Squashing <br> Last Day of Class</strong> 
 	</td>
 	<td></td>
 </tr>
