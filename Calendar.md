@@ -47,9 +47,9 @@
 
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Feb 23</a><br>Functions + passing parameters (review)<br>Matrix Transformations II <br> </td>
+	<td valign="top"><a href="week_5_detail.md">Feb 23</a><br>Functions + passing parameters (review)<br>Matrix Transformations II <br> 
+	Review <br> </td>
 	<td valign="top"><a href="week_5_detail.md">Feb 28th</a><br>
-		Review <br> 
 		Object Orientated Programming <br>
 		In-class Challenge (?)<br>
 		<a href = "MidTermProject.md"> MidTerm Project </a> Announced <br>
@@ -77,7 +77,7 @@
 	<td valign="top"><a href="week_9_detail.md">March 30</a><br>Images + Pixel Manipulations <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
-	<td valign="top"><a href="week_9_detail.md">April 4</a><br>Images + Pixel Manipulations	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">April 4</a><br>Text & Strings	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 </tr>
 
@@ -104,7 +104,7 @@
 </tr>
 <tr>	
 	<td>13</td><td valign="top">April 27<br><strong>
-	Final Project: In-class feedback <br></strong>	
+	Topics by request<br></strong>	
 	</td>
 	<td valign="top">April 25<br><strong>
 		Code-swap + Bug Squashing <br>
@@ -126,6 +126,5 @@
 	<td valign="top">May 11<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 22:00<br>
 	Letter to the Next Cohort DUE by 22:00.</td> </a><td valign="top"> <br>Have a great summer! Stay safe and healthy!<br></strong> 
 	</td>
-<tr>
-	
+<tr>	
 </table>
