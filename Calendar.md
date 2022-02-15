@@ -36,9 +36,10 @@
 <td>4</td>
 	<td valign="top"><a href="week_4_detail.md">Feb 14</a><br>
 	Loops <br>
-	Intro to P5 <br> 
+	Functions + passing parameters<br>
 	</td>
-	<td valign="top"><a href="week_4_detail.md">Feb 16</a><br>Functions + passing parameters<br>
+	<td valign="top"><a href="week_4_detail.md">Feb 16</a><br>
+	Intro to P5 <br> 
 	Matrix Transformations<br>
 	In-class Challenge <br>
 	</td>
@@ -46,13 +47,23 @@
 
 <tr>
 	<td>5</td>
-	<td valign="top"><a href="week_5_detail.md">Feb 23</a><br>Functions + passing parameters (review)<br>Matrix Transformations II <br>
+	<td valign="top"><a href="week_5_detail.md">Feb 23</a><br>Functions + passing parameters (review)<br>Matrix Transformations II <br> </td>
 	<td valign="top"><a href="week_5_detail.md">Feb 28th</a><br>
 		Review <br> 
 		Object Orientated Programming <br>
 		In-class Challenge (?)<br>
-		<a href = "MidTermProject.md" MidTerm Project </a> Announced <br>
+		<a href = "MidTermProject.md"> MidTerm Project </a> Announced <br>
 	</td>
+</tr>
+<tr>
+	<td> 6 </td>
+	<td valign="top"><a href="week_6_detail.md">March 2</a><br>OOP:Vectors<br></td>
+	<td valign="top"><a href="week_6_detail.md">March 7</a><br>Vectors <br> In-class Challenge (?)</td>
+<tr>
+	<td> 7 </td>
+	<td valign="top"><a href="week_7_detail.md">March 9</a><br>Vectors + Forces + Steering<br>	</td>
+	<td valign = "top"> <a href="week_7_detail.md">March 14</a><br>Presentations<br> <br> </td>
+</tr>
 </tr>
 
 	

@@ -221,7 +221,9 @@ Do the follow these steps for each assignment:
 
 ## Grading
 
-• Participation, Self-Assessments, In-class Challenges, Study outside of class 		20%
+• Participation, Self-Assessments, In-class Challenges, Study outside of class 		15%
+
+• Show & Tell Presentation 5%
 
 • Sketches            30%
 
