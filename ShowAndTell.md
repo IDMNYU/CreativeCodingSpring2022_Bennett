@@ -52,7 +52,7 @@ Week 8B - Field - http://www.field.io/, JT Nimoy (formerly known as Josh Nimoy)-
 
 Week 9A - Jurg Lehni, Red Paper Heart   ---> Gustavo
 
-Week 9B - Amit Pitaru, rAndom International  ---> Rayan
+Week 9B - Amit Pitaru, rAndom International  ---> Kleon
 
 Week 10A - Eno Henze, Cedric Kiefer (onformative)---> Aster
 
@@ -68,7 +68,7 @@ Week 12A - Lia, Santiago Ortiz (Moebio.com) ---> Nor
 
 Week 12B - Michael Hansmeyer, Waltz Binarie, Alida Sun ---> Othman
 
-Week 13A - Paul Prudence,Yasmin Elayat  ---> Kleon
+Week 13A - Paul Prudence,Yasmin Elayat  ---> Rayan 
 
 Week 13b - Chris Sugrue, Fernanda Viegas---> 
 
