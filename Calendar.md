@@ -118,8 +118,9 @@
 	</td>
 </tr>
 <tr>	
-	<td valign="top">May 9</td><td><br><strong>Bug Squashing <br> Last Day of Class</strong> 
+	<td>14</td><td valign="top">May 9</td><td><br><strong>Bug Squashing <br> Last Day of Class</strong> 
 	</td>
+	<td></td>
 </tr>
 <tr><td>EXAM WEEK</td>	
 	<td valign="top">May 11<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 22:00<br>
