@@ -74,36 +74,36 @@
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">March 23</a><br>Images + Pixel Manipulations <br>
+	<td valign="top"><a href="week_9_detail.md">March 30</a><br>Images + Pixel Manipulations <br>
 		<a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
-	<td valign="top"><a href="week_9_detail.md">March 28</a><br>Images + Pixel Manipulations	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">April 4</a><br>Images + Pixel Manipulations	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 	</td>
 </tr>
 
 <tr>
 	<td>10</td>
-	<td valign="top"> March 30<br>Data<br>Text & String Manipulations	 <br>
+	<td valign="top"> April 6<br>Data<br>Text & String Manipulations	 <br>
 	</td>
-	<td valign="top">April 4<br>Data<br>Text & String Manipulations	
+	<td valign="top">April 11<br>Data<br>Text & String Manipulations	
 	</td>	
 </tr>
 <tr>
 	<td>11</td>
-	<td valign="top">April 6<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
+	<td valign="top">April 13<br><a href = "RoundTable.md"> <strong> Roundtable for Final Projects</a></strong> <br>	
 	</td>
-	<td valign="top">April 11<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> 
+	<td valign="top">April 18<br><strong><a href = "RoundTable.md">  Roundtable for Final Projects</a></strong> 
 	</td>
 </tr>
 <tr>
 	<td>12</td>
-	<td valign="top">April 13<br>Strings + API's<br></strong>
+	<td valign="top">April 20<br>Strings + API's<br></strong>
 	</td>
-	<td valign="top">April 18<br><strong>Sound<br>P5 Play Library<br>Topics by request<br></strong>
+	<td valign="top">April 25<br><strong>Sound<br>P5 Play Library<br>Topics by request<br></strong>
 	</td>
 </tr>
 <tr>	
-	<td>13</td><td valign="top">April 20<br><strong>
+	<td>13</td><td valign="top">April 27<br><strong>
 	Final Project: In-class feedback <br></strong>	
 	</td>
 	<td valign="top">April 25<br><strong>
@@ -112,20 +112,19 @@
 		Topics by Request <br></strong></td>	
 </tr>
 <tr>	
-	<td>14</td><td valign="top">April 27<br><strong>Final Critique</strong>
+	<td>14</td><td valign="top">May 2<br><strong>Final Critique <br>
+		Last Day to Withdraw <br></strong>
 	</td>
-	<td valign="top">May 2<br><strong>Final Critique <br> </strong> 
+	<td valign="top">May 4<br><strong>Final Critique <br> </strong> 
 	</td>
 </tr>
 <tr>	
-	<td>14</td><td valign="top">May 4<br><strong>Final Critique</strong>
-	</td>
 	<td valign="top">May 9<br><strong>Final Critique <br> Last Day of Class</strong> 
 	</td>
 </tr>
 <tr><td>EXAM WEEK</td>	
-	<td valign="top">May 11<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by mightnight<br>
-	Letter to the Next Cohort DUE by midnight.</td> </a><td valign="top"> <br>Have a great holiday break! Stay safe and healthy!<br></strong> 
+	<td valign="top">May 12<br><strong>ALL Final Submissions Due by 18:00 EST<br>Exams Submit Final Materials + Documents <br><a href = "Final_Deliverables.md">Final Self Assessment DUE by 22:00<br>
+	Letter to the Next Cohort DUE by 22:00.</td> </a><td valign="top"> <br>Have a great summer! Stay safe and healthy!<br></strong> 
 	</td>
 <tr>
 	
