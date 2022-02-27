@@ -5,7 +5,8 @@
 
 ### Interactive Repetition & Drawing: Modularity, Pattern Part II
 
-#### Due Feb 24 19:00 EST
+#### <s> Due Feb 24 19:00 EST </s>
+####  Due March 7 18:00 EST SHARP </s>
 
 
 Using a pattern created in sketch 2, how can you use it as a drawing tool/instrument? What if it that pattern was one bristle on a brush? A brush has multiple bristles on it. Think about each of those bristles touching the canvas with one stroke. What if three (or simply multiple) bristles touched the canvas at one time?
